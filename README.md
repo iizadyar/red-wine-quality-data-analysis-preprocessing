@@ -1,4 +1,3 @@
-# red-wine-quality-data-analysis-preprocessing
 # Red Wine Quality Data Analysis and Preprocessing
 
 This project analyzes the UCI Red Wine Quality Dataset and compares the effect of preprocessing on two machine learning classification models: Random Forest and K-Nearest Neighbors (KNN).
